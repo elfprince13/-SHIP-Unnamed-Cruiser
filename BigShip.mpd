@@ -2,7 +2,11 @@
 0 the fully assembled beast
 0 Name: wholeship.ldr
 0 Author: Thomas Dickerson
-1 16 0 0 0 1 0 0 0 1 0 -0 0 1 keel.ldr
+1 16 0 0 -960 1 0 0 0 0 -1 0 1 0 keel.ldr
+1 16 0 408 0 1 0 0 0 1 0 0 0 1 3811.dat
+1 16 0 408 1040 1 0 0 0 1 0 0 0 1 3865.dat
+1 16 0 408 640 1 0 0 0 1 0 0 0 1 3811.dat
+1 16 0 408 -640 1 0 0 0 1 0 0 0 1 3811.dat
 0 NOFILE
 0 FILE bigarc.ldr
 0 a common submodel for rounding out the edges
@@ -23,10 +27,6 @@
 0 the centerline of the ship
 0 Name: keel.ldr
 0 Author: Thomas Dickerson
-1 16 0 968 72 1 0 0 0 -0 -1 0 1 -0 3811.dat
-1 16 0 328 72 1 0 0 0 -0 -1 0 1 -0 3811.dat
-1 16 0 1608 72 1 0 0 0 -0 -1 0 1 -0 3811.dat
-1 16 0 2008 72 1 0 0 0 -0 -1 0 1 -0 3865.dat
 1 320 -10 2016 10 -0 0 1 -0 1 0 -1 -0 -0 2449.dat
 1 320 10 2016 10 -0 0 -1 -0 1 0 1 0 -0 2449.dat
 1 320 -10 2016 -10 -0 0 1 -0 1 0 -1 -0 -0 2449.dat
