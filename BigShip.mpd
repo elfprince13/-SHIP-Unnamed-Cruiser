@@ -816,3 +816,24 @@
 1 320 -410 96 0 -0 -0 -1 -0 1 0 1 0 -0 3023.dat
 1 320 410 96 0 -0 -0 -1 -0 1 0 1 0 -0 3023.dat
 0 NOFILE
+0 FILE forwardbumper.ldr
+0 the windscreen "bumpers"
+0 Name: forwardbumper.ldr
+0 Author: Thomas Dickerson
+1 320 0 0 0 1 0 0 0 1 0 -0 0 1 bigarc.ldr
+1 320 -420 368 0 -0 1 -0 1 0 -0 0 -0 -1 bigarc.ldr
+1 320 -290 96 0 -1 0 -0 0 1 -0 0 -0 -1 3002.dat
+1 320 -410 112 -0 -0 0 1 -0 1 0 -1 -0 -0 99206.dat
+1 320 -240 120 0 -1 -0 -0 -0 1 0 0 0 -1 91988.dat
+1 320 -370 72 0 0 0 1 0 1 0 -1 0 0 3937.dat
+1 320 -250 10 -20 0 -0.382683 -0.923879 0 0.923879 -0.382683 1 0 0 frontbumperhinge.ldr
+1 16 -300 80 190 1 0 0 0 0 -1 0 1 0 819.dat
+0 NOFILE
+0 FILE frontbumperhinge.ldr
+0 shortcut to make rotating easier
+0 Name: frontbumperhinge.ldr
+0 Author: Thomas Dickerson
+1 16 20 -10 50 -1 0 0 0 1 0 0 0 -1 41751.dat
+1 16 20 0 30 -0 1 -0 0 0 1 1 0 -0 47973.dat
+0 NOFILE
+0 NOFILE
