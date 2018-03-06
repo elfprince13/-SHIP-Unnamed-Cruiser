@@ -5,6 +5,7 @@
 1 16 0 0 -960 1 0 0 0 0 -1 0 1 0 keel.ldr
 1 16 0 0 0 1 0 0 0 1 0 -0 0 1 mainhull.ldr
 1 16 0 0 0 -1 0 0 0 -1 0 0 0 1 mainhull.ldr
+1 189 0 -52 -74 1 0 0 0 1 0 0 0 1 ReactorBase.ldr
 0 NOFILE
 0 FILE bigarc.ldr
 0 a common submodel for rounding out the edges
@@ -1371,7 +1372,6 @@
 1 19 0 -92 976 1 0 0 -0 1 -0 0 0 1 4590.dat
 1 19 0 -100 976 1 0 0 -0 1 -0 0 0 1 3023.dat
 1 19 0 -84 976 1 0 0 -0 1 -0 0 0 1 3023.dat
-1 19 0 -52 -74 1 0 0 0 1 0 0 0 1 ReactorBase.ldr
 0 STEP
 0 NOFILE
 0 FILE EngineModuleLeft.ldr
