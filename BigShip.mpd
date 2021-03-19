@@ -1939,6 +1939,10 @@
 1 43 0 -8 0 -1 0 0 0 1 0 0 0 -1 ReactorHoses.ldr
 1 43 0 -8 0 0 0 -1 0 1 0 1 0 0 ReactorHoses.ldr
 0 STEP
+1 320 0 0 250 0 0 1 0 1 0 -1 0 0 3021.dat
+1 320 0 -8 250 0 0 1 0 1 0 -1 0 0 3021.dat
+1 61 0 -16 250 0 0 1 0 1 0 -1 0 0 3021.dat
+0 STEP
 0 NOFILE
 0 FILE ReactorMount.ldr
 0 The pylons that reactor components are mounted to
