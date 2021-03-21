@@ -65,3 +65,9 @@ texture {
 #ifndef (L3Texture43)
 #declare L3Texture43 = L3TextureTransparentGlowRGBA(174,233,239,128,2)
 #end
+
+//// Color 38 Trans_Neon_Orange (from ldconfig.ldr)
+#ifndef (L3Texture38)
+#declare L3Texture38 = L3TextureTransparentGlowRGBA(255,128,13,128,0.5)
+#end
+
