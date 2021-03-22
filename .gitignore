@@ -1,2 +1,4 @@
 *.png
 *.pov
+*.hdr
+*-baked.mpd
