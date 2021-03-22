@@ -2624,7 +2624,7 @@
 1 89 -140 152 260 1 0 0 0 1 0 -0 0 1 98285.dat
 1 89 -140 -8 40 1 0 0 0 1 0 -0 0 1 98286.dat
 1 16 0 146 300 1 0 0 0 0.597457 0.801901 0 -0.801901 0.597457 quarter-arc-11x16x6-segment.ldr
-1 16 0 2 80 -1 0 0 0 0.973972 -0.226668 0 -0.226668 -0.973972 quarter-arc-11x16x6-segment.ldr
+1 16 0 2 80 -1 -0 0 -0 0.973972 -0.226668 0 -0.226668 -0.973972 quarter-arc-11x16x6-segment.ldr
 1 89 -100 -8 40 1 0 0 0 1 0 -0 0 1 98286.dat
 1 89 -60 -8 40 1 0 0 0 1 0 -0 0 1 98286.dat
 1 89 -20 -8 40 1 0 0 0 1 0 -0 0 1 98286.dat
@@ -5409,11 +5409,11 @@
 0 
 0 Name: quarter-arc-11x16x6-chain-right.ldr
 0 Author: Thomas Dickerson
-1 16 0 0 0 1 0 0 0 1 0 -0 0 1 quarter-arc-11x16x6-bot-right.ldr
+1 16 0 0 0 1 0 0 0 0.597457 0.801901 0 -0.801901 0.597457 quarter-arc-11x16x6-bot-right.ldr
 0 STEP
-1 16 0 0 -140 1 0 0 0 1 0 -0 0 1 quarter-arc-11x16x6-mid-right.ldr
+1 16 0 -112.266113 -83.644012 1 0 0 0 0.973972 0.226668 0 -0.226668 0.973972 quarter-arc-11x16x6-mid-right.ldr
 0 STEP
-1 16 0 0 -280 1 0 0 0 1 0 -0 0 1 quarter-arc-11x16x6-top-right.ldr
+1 16 0 -143.99968 -220.000092 1 0 0 0 1 -0.000002 0 0.000002 1 quarter-arc-11x16x6-top-right.ldr
 0 STEP
 0 NOFILE
 0 FILE quarter-arc-11x16x6-base-right.ldr
@@ -5429,11 +5429,11 @@
 0 untitled model
 0 Name: quarter-arc-11x16x6-chain-left.ldr
 0 Author: Thomas Dickerson
-1 16 0 0 0 1 0 0 0 1 0 -0 0 1 quarter-arc-11x16x6-bot-left.ldr
+1 16 0 0 0 1 0 0 0 0.597457 -0.801901 0 0.801901 0.597457 quarter-arc-11x16x6-bot-left.ldr
 0 STEP
-1 16 0 0 140 1 0 0 0 1 0 -0 0 1 quarter-arc-11x16x6-mid-left.ldr
+1 16 0 -112.266113 83.644012 1 0 0 0 0.973972 -0.226668 0 0.226668 0.973972 quarter-arc-11x16x6-mid-left.ldr
 0 STEP
-1 16 0 0 280 1 0 0 0 1 0 -0 0 1 quarter-arc-11x16x6-top-left.ldr
+1 16 0 -143.99968 220.000092 1 0 0 0 1 0.000002 0 -0.000002 1 quarter-arc-11x16x6-top-left.ldr
 0 STEP
 0 NOFILE
 0 FILE quarter-arc-11x16x6-base-left.ldr
