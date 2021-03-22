@@ -10,11 +10,12 @@
 1 16 60 0 -232 0 1 0 0 0 1 1 0 0 turbolift.ldr
 1 89 -80 72 -674 0 0 1 0 -1 0 1 0 0 fighter.ldr
 1 89 80 72 -454 0 0 -1 0 -1 0 -1 0 0 fighter.ldr
+1 89 10 358 -594 -0.707107 -0.707107 0 0.707107 -0.707107 -0 0 0 1 fighter.ldr
 1 16 0 44 -354 -1 0 0 -0 -1 0 0 0 1 HangarDecor.ldr
 1 19 -300 -58 -594 -0 0 -1 0 1 0 1 0 -0 quarter-arc-11x16x6-chain-right.ldr
 1 19 300 -58 -594 -0 0 -1 -0 1 0 1 0 -0 quarter-arc-11x16x6-chain-left.ldr
-1 19 300 58.000027 -594 0 0 1 0 -1 0 1 0 -0 quarter-arc-11x16x6-chain-right.ldr
-1 19 -300 57.999973 -594 0 0 1 0 -1 0 1 0 -0 quarter-arc-11x16x6-chain-left.ldr
+1 19 300 58.000027 -594 0 -0.707107 0.707107 -0 -0.707107 -0.707107 1 0 -0 quarter-arc-11x16x6-chain-right.ldr
+1 19 -300 57.999973 -594 0 0.707107 0.707107 0 -0.707107 0.707107 1 0 -0 quarter-arc-11x16x6-chain-left.ldr
 1 39 0 -188 -414 1 0 -0 0 1 0 0 0 1 arc-roof-9.5x12x5.ldr
 1 39 -0.000016 188 -414 -1 0 0 -0 -1 0 0 0 1 arc-roof-9.5x12x5.ldr
 0 NOFILE
